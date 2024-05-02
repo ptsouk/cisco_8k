@@ -47,6 +47,7 @@ terraform destroy -auto-approve
 
 ## Get output
 
-```bash
-terraform output -json virtualMachineOutputs | ConvertFrom-Json
+```powershell
+terraform output -json cisco8k_primary_output | ConvertFrom-Json
+terraform output -json cisco8k_secondary_output | ConvertFrom-Json
 ```
