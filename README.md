@@ -1,6 +1,6 @@
 # Description
 
-Example with the creation of a Cisco 8000v NVA in Azure using Terraform and the Azure Verified Modules.
+Example deployment of [Cisco 8000v NVA in Azure](https://www.cisco.com/c/en/us/td/docs/routers/C8000V/Azure/deploying-cisco-catalyst-8000v-on-microsoft-azure/c8000v_microsoftazure_overview.html) using Terraform and the [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules).
 
 Conceptual diagram:
 
